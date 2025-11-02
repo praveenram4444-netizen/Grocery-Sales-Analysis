@@ -15,7 +15,6 @@ This project presents a comprehensive sales analysis of Blinkit grocery data, fo
 
 ## Technologies Used
 - Python 3  
-- Jupyter Notebook  
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`  
 
 ## Execution Workflow
